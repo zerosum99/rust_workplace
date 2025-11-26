@@ -1,0 +1,21 @@
+
+
+pub fn gugudan_pr() {
+
+    for y in 1..10 {
+        for x in 1..10 {
+            print!("{:3}", x*y);
+        }
+        println!("");
+    }
+}
+
+pub fn gugudan_map() {
+    for y in 1..10 {
+        let s = (1..10)
+            .map(|x| format!("{:3}", x*y))
+            .collect::<Vec<String>>().join(",");
+
+        println!("{}",s);
+    }
+}

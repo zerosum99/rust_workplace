@@ -1,0 +1,1 @@
+/Users/a06411/Documents/rust_projects/rust-mod/target/debug/rust-mod: /Users/a06411/Documents/rust_projects/rust-mod/src/main.rs /Users/a06411/Documents/rust_projects/rust-mod/src/stru_test.rs /Users/a06411/Documents/rust_projects/rust-mod/src/tra_test.rs
